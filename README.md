@@ -59,8 +59,8 @@ Additional areas of interest include Apache Spark, Databricks, Snowflake, search
   <a href="https://github.com/walber?tab=repositories">
     <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=walber&style=for-the-badge&color=0F766E&label=PROFILE+VIEWS" alt="Profile view counter" />
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=walber&style=for-the-badge&color=0F766E&label=PROFILE+VIEWS" alt="Profile view counter" />
 <div align="center"> Software Engineer · Full-Stack Development · Cloud · Artificial Intelligence Build thoughtfully. Learn continuously. Deliver with purpose. <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F766E,55:16213E,100:0D1117" alt="Footer decoration" />
 </div>
