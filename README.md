@@ -20,21 +20,26 @@
 </div>
 
 # 👋 About Me
-I am a Software Engineer with more than 7+ years of experience building, maintaining, and supporting software across different business environments. My background includes full-stack development, enterprise systems, technical support, system integration, and collaborative product delivery. I enjoy understanding how systems behave end to end—from user experience and application logic to APIs, data, infrastructure, and production operations. Today, I am expanding my work toward Cloud Engineering and Artificial Intelligence, combining a strong software-engineering foundation with modern infrastructure, automation, distributed data platforms, and AI-enabled applications.
+I am a Software Engineer with more than 7+ years of experience building, maintaining, and supporting software across different business environments. My background includes full-stack development, enterprise systems, technical support, system integration, and collaborative product delivery. I enjoy understanding how systems behave end to end, from user experience and application logic to APIs, data, infrastructure, and production operations. At present, I am expanding my work toward Cloud Engineering and Artificial Intelligence, combining a strong software-engineering foundation with modern infrastructure, automation, distributed data platforms, and AI-enabled applications.
 
 # 🛠️ Technical Toolbox Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cs,ts,js,html,css&theme=dark" alt="Python, Java, JavaScript, TypeScript, HTML, and CSS" />
-</p> Frameworks/Libraries & Application Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vuejs,nodejs,npm&theme=dark" alt="React, Vue.js, Node.js, and npm" />
-</p> Cloud, Infrastructure & Delivery
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,githubactions,linux,git&theme=dark" alt="AWS, Docker, Terraform, GitHub Actions, Linux, and Git" />
-</p> Data & AI — Active Learning and Development
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,postgres,mysql&theme=dark" alt="TensorFlow, PyTorch, scikit-learn, PostgreSQL, and MySQL" />
-</p>
+<div align="center">
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,cs,ts,js,html,css&theme=dark" alt="Python, Java, JavaScript, TypeScript, HTML, and CSS" />
+  </p>
+    Frameworks/Libraries & Application Development
+  <p>
+    <img src="https://skillicons.dev/icons?i=react,vuejs,nodejs,npm&theme=dark" alt="React, Vue.js, Node.js, and npm" />
+  </p>
+    Cloud, Infrastructure & Delivery
+  <p>
+    <img src="https://skillicons.dev/icons?i=aws,docker,terraform,githubactions,linux,git&theme=dark" alt="AWS, Docker, Terraform, GitHub Actions, Linux, and Git" />
+  </p>
+    Data & AI — Active Learning and Development
+  <p>
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,postgres,mysql&theme=dark" alt="TensorFlow, PyTorch, scikit-learn, PostgreSQL, and MySQL" />
+  </p>
+</div>
 
 Additional areas of interest include Apache Spark, Databricks, Snowflake, search platforms, distributed systems, generative AI, and cloud-native architecture. I value technology choices that solve real problems. Tools matter, but architecture, maintainability, observability, security, and user impact matter more. # 🎯 Currently Focused On - Building portfolio projects that connect software engineering, Cloud, and AI - Strengthening AWS architecture and infrastructure automation skills - Developing practical AI applications with Python and modern ML tooling - Exploring distributed data processing and cloud data platforms - Contributing to products where reliability, quality, and business value are equally important
 <br />
