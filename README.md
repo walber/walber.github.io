@@ -41,7 +41,14 @@ I am a Software Engineer with more than 7+ years of experience building, maintai
   </p>
 </div>
 
-Additional areas of interest include Apache Spark, Databricks, Snowflake, search platforms, distributed systems, generative AI, and cloud-native architecture. I value technology choices that solve real problems. Tools matter, but architecture, maintainability, observability, security, and user impact matter more. # 🎯 Currently Focused On - Building portfolio projects that connect software engineering, Cloud, and AI - Strengthening AWS architecture and infrastructure automation skills - Developing practical AI applications with Python and modern ML tooling - Exploring distributed data processing and cloud data platforms - Contributing to products where reliability, quality, and business value are equally important
+Additional areas of interest include Apache Spark, Databricks, Snowflake, search platforms, distributed systems, generative AI, and cloud-native architecture. I value technology choices that solve real problems. Tools matter, but architecture, maintainability, observability, security, and user impact matter more.
+
+# 🎯 Currently Focused On
+- Building portfolio projects that connect software engineering, Cloud, and AI
+- Strengthening AWS architecture and infrastructure automation skills
+- Developing practical AI applications with Python and modern ML tooling
+- Exploring distributed data processing and cloud data platforms
+- Contributing to products where reliability, quality, and business value are equally important
 <br />
 <br />
 
@@ -52,10 +59,8 @@ Additional areas of interest include Apache Spark, Databricks, Snowflake, search
   <a href="https://github.com/walber?tab=repositories">
     <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
   </a>
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=walber&style=for-the-badge&color=0F766E&label=PROFILE+VIEWS" alt="Profile view counter" />
-  <br />
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=walber&style=for-the-badge&color=0F766E&label=PROFILE+VIEWS" alt="Profile view counter" />
 <div align="center"> Software Engineer · Full-Stack Development · Cloud · Artificial Intelligence Build thoughtfully. Learn continuously. Deliver with purpose. <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F766E,55:16213E,100:0D1117" alt="Footer decoration" />
 </div>
